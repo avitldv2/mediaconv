@@ -140,10 +140,6 @@ mediaconv input.mp3 --to mp4 --image cover.jpg --crf 23
 - WEBM
 - GIF
 
-## Developer Docs
-
-You can read the developer docs [here!](https://mediaconv.avitld.xyz/docs/)
-
 ## License
 
 This project uses the MIT license. Read [LICENSE](/LICENSE.md) for more info
