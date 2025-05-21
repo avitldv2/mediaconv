@@ -1,0 +1,5 @@
+pathlib>=1.0.1
+typing-extensions>=4.0.0
+python-magic>=0.4.27
+python-magic-bin>=0.4.14; sys_platform == 'win32'
+tqdm>=4.65.0 
